@@ -2,7 +2,7 @@
 
 **Authors:** **Leykun Getaneh** and **Rediet Eristu**
 
-Welcome to the **Advanced R Training** repository! This repository contains all the slides and materials for the training. The training covers key topics.
+Welcome to the **Advanced R Training** repository! This repository contains all the slides and materials for the training. 
 
 ------------------------------------------------------------------------
 
@@ -50,11 +50,11 @@ Participants can access the slides and materials for each session below. Simply 
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
-| Refresher to R and RStudio & Data Import | [View](https://leykungetaneh.quarto.pub/introduction-to-r-and-rstudio/) | [Download]() |
+| R and RStudio Refresher & Data Import | [View](https://leykungetaneh.quarto.pub/introduction-to-r-and-rstudio/) | [Download]() |
 | Data Management with dplyr in R | [View](https://leykungetaneh.quarto.pub/data-management-using-r/) | [Download]() |
 | Data Visualization using ggplot2 & EDA | [View](https://leykungetaneh.quarto.pub/eda-and-data-visualization/) | [Download]() |
 | Univariate time series analysis in R | [View]() | [Download]() |
-| Bayesian modeling | [View]() | [Download]() |
+| Bayesian modeling in R | [View]() | [Download]() |
 | Reproducible Reports with Quarto | [View]() | [Download]() |
 | Quarto dashboard | [View]() | [Download]() |
 

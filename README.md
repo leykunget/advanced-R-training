@@ -23,8 +23,8 @@ This training is organized by the **PHEM**, in collaboration with **NDMC** for p
 -   Understanding R and RStudio
 -   Data wrangling using the Tidyverse
 -   EDA & Data visualization using ggplot2
--   Understand the core concept of univariate time series analysis in R
--   Understand the core concept of Bayesian Modeling in R
+-   Univariate time series analysis in R
+-   Bayesian Modeling in R
 -   Creating reproducible reports with Quarto
 -   Creating quarto dashboard
 

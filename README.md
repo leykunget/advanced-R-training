@@ -35,12 +35,12 @@ Participants can access the slides and materials for each session below. Simply 
 
 ## Training Schedules 
 
-### October 14 – 17, 2025
+### February 17 – 20, 2026
 
 | Days  | Topic                                           | Trainer    |
 |-------|-------------------------------------------------|----------------|
-| Day 1 | Data Management, visualization, and EDA        | Leykun & Rediet |
-| Day 2 | Univariate time series analysis in R                | Leykun |
+| Day 1 | R and RStudio Refresher & Data Management         | Leykun |
+| Day 2 | Data visualization, EDA, & univariate time series analysis in R                | Leykun |
 | Day 3 | Bayesian modeling                        | Rediet |
 | Day 4 | Reproducible reports using Quarto & dashboard | Leykun |
 
@@ -50,9 +50,9 @@ Participants can access the slides and materials for each session below. Simply 
 
 | Topic                 | HTML Slide              | PDF Slide               |
 |-----------------------|-------------------------|-------------------------|
-| R and RStudio Refresher & Data Import | [View]() | [Download]() |
-| Data Management with dplyr in R | [View]() | [Download]() |
-| Data Visualization using ggplot2 & EDA | [View]() | [Download]() |
+| R and RStudio Refresher & Data Import | [View](https://leykungetaneh.quarto.pub/introduction2r/) | [Download]() |
+| Data Management with dplyr in R | [View](https://leykungetaneh.quarto.pub/data-manipulation-r/) | [Download]() |
+| Data Visualization using ggplot2 & EDA | [View](https://leykungetaneh.quarto.pub/data-viz-2/) | [Download]() |
 | Univariate time series analysis in R | [View](https://leykungetaneh.quarto.pub/univariate-time-series-analysis-with-r/) | [Download]() |
 | Bayesian modeling in R | [View]() | [Download]() |
 | Reproducible Reports with Quarto | [View]() | [Download]() |

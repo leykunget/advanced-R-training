@@ -55,8 +55,8 @@ Participants can access the slides and materials for each session below. Simply 
 | Data Visualization using ggplot2 & EDA | [View](https://leykungetaneh.quarto.pub/data-viz-2/) | [Download]() |
 | Univariate time series analysis in R | [View](https://leykungetaneh.quarto.pub/univariate-time-series-analysis-with-r/) | [Download]() |
 | Bayesian modeling in R | [View]() | [Download]() |
-| Reproducible Reports with Quarto | [View]() | [Download]() |
-| Quarto dashboard | [View]() | [Download]() |
+| Reproducible Reports with Quarto | [View](https://leykungetaneh.quarto.pub/introduction-to-quarto/) | [Download]() |
+| Quarto dashboard | [View](https://leykungetaneh.quarto.pub/quarto-dashboards/) | [Download]() |
 
 ------------------------------------------------------------------------
 

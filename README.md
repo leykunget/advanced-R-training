@@ -18,7 +18,7 @@ Welcome to the **Advanced R Training** repository! This repository contains all 
 
 ## About This Training 
 
-This training is organized by the **PHEM**, in collaboration with **NDMC** for public health professionals of EPHI, focusing on:
+This training is organized by the **PHEM** in collaboration with **NDMC** and **Project HOPE** for public health professionals of EPHI, focusing on:
 
 -   Understanding R and RStudio
 -   Data wrangling using the Tidyverse
